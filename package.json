@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "chai": "^4.2.0",
+        "express": "^4.17.1",
+        "mocha": "^6.2.0",
+        "request": "^2.88.0",
+        "weeknumber": "^1.1.1"
+    },
+    "scripts": {
+        "test": "mocha || true"
+    }
+}
